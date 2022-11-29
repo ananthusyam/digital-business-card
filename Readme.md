@@ -1,1 +1,1 @@
-This is a dihital business card.
+This is a digital business card.
