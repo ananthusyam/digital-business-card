@@ -10,8 +10,8 @@ export default function Info() {
             <p className="website">laurasmith.website</p>
             <div className="social">
                <button>
-                  <img src="src/assets/mail-icon.png" alt="Email icon" />
-                  <p>Email</p>
+                     <img src="src/assets/mail-icon.png" alt="Email icon" />
+                     <p>Email</p>
                </button>
                <button className="button-two">
                   <img src="src/assets/linkedin-vector.png" alt="Linkedin icon" />
