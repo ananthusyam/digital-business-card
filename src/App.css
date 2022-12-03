@@ -63,9 +63,9 @@ button {
   display: flex;
   gap: 8px;
   justify-content: center;
-  padding: 9px 11px;
+  padding: 9px 18px;
   max-width: 115px;
-  width: 115px;
+  width: 100%;
   font-weight: 500;
   font-size: 14px;
   color: #374151;
@@ -112,7 +112,7 @@ button {
   border-radius: 0px 0px 10px 10px;
 }
 
-li {
+.icon {
   list-style: none;
   width: 25px;
   height: 25px;
